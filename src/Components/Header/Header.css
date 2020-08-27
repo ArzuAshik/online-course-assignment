@@ -1,0 +1,7 @@
+.header{
+    min-height: 15vh;
+    background-image: linear-gradient(#5455A9, #AD4CA9);
+    padding: 7vh;
+    box-sizing: border-box;
+    text-align: center;
+}
